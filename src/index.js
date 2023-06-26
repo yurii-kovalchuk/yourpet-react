@@ -12,11 +12,11 @@ import './index.css';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
-    <PersistGate loading={null} persistor={persistor}>
-    <BrowserRouter basename="/final-project-yourpet-frontend">
-      <App />
-    </BrowserRouter>
-     </PersistGate>
-  </Provider>
+      <PersistGate loading={null} persistor={persistor}>
+        <BrowserRouter basename="/yourpet-react">
+          <App />
+        </BrowserRouter>
+      </PersistGate>
+    </Provider>
   </React.StrictMode>
 );
