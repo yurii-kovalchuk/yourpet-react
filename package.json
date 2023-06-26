@@ -1,8 +1,8 @@
 {
-  "name": "final-project-yourpet-frontend",
+  "name": "yourpet-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tetianazinchenko.github.io/final-project-yourpet-frontend/",
+  "homepage": "https://yurii-kovalchuk.github.io/yourpet-react/",
   "dependencies": {
     "@cloudinary/react": "^1.11.2",
     "@cloudinary/url-gen": "^1.10.1",
