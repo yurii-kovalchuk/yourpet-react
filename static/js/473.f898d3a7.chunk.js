@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkyourpet_react=self.webpackChunkyourpet_react||[]).push([[473],{5473:function(c,e,a){a(2791);e.Z=a.p+"static/media/icons.95c842bb5b0a25f7c3a62cb27af3c310.svg"}}]);
+//# sourceMappingURL=473.f898d3a7.chunk.js.map
